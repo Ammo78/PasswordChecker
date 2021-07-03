@@ -1,8 +1,0 @@
-LICENSE.txt
-README.md
-pyproject.toml
-setup.py
-PasswordChecker/PasswordChecker.egg-info/PKG-INFO
-PasswordChecker/PasswordChecker.egg-info/SOURCES.txt
-PasswordChecker/PasswordChecker.egg-info/dependency_links.txt
-PasswordChecker/PasswordChecker.egg-info/top_level.txt
