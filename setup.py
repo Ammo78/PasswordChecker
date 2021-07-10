@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Amogh Jhamb",
     author_email="amogh100109@gmail.com",
-    description="A small example package",
+    description="A password validity checker",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Ammo78/PasswordValidityChecker",
